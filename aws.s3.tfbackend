@@ -1,0 +1,3 @@
+bucket         = "il-tap-test"
+region         = "eu-central-1"
+dynamodb_table = "tap-test-tflock"
